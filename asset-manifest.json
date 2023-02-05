@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca103910.css",
+    "main.js": "/static/js/main.74bbe1f1.js",
+    "static/js/342.9c970552.chunk.js": "/static/js/342.9c970552.chunk.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/_Jogglecryp_max_16579263.apk": "/static/media/_Jogglecryp_max_16579263.b0c00f92de59de9bcc73.apk",
+    "static/media/atm.png": "/static/media/atm.e187284e583bde2fe790.png",
+    "static/media/2.jpg": "/static/media/2.ad186b2092eda8bbcad0.jpg",
+    "static/media/contact.png": "/static/media/contact.b2710c50142c634121db.png",
+    "static/media/handdy.png": "/static/media/handdy.977a2fb4f0e6e633485b.png",
+    "static/media/jog.png": "/static/media/jog.5b689e66a26498a88b2f.png",
+    "static/media/hmd.png": "/static/media/hmd.89c6e51dea7979135a04.png",
+    "static/media/whats.png": "/static/media/whats.31d4b1d27126bcc1f665.png",
+    "static/media/loop1.gif": "/static/media/loop1.039832c5dd45dbd74f4f.gif",
+    "static/media/login2.jpg": "/static/media/login2.91cd7f0cc2b7997cdeaf.jpg",
+    "static/media/phone.png": "/static/media/phone.dc4b0ce46a878f8664f3.png",
+    "static/media/img.png": "/static/media/img.63d1e4e606afa8350ca3.png",
+    "index.html": "/index.html",
+    "main.ca103910.css.map": "/static/css/main.ca103910.css.map",
+    "main.74bbe1f1.js.map": "/static/js/main.74bbe1f1.js.map",
+    "342.9c970552.chunk.js.map": "/static/js/342.9c970552.chunk.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca103910.css",
+    "static/js/main.74bbe1f1.js"
+  ]
+}
